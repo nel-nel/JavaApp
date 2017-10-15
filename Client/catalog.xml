@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:9999/Web_service/GeneMethod?wsdl" uri="xml-resources/web-service-references/GeneMethod/wsdl/localhost_9999/Web_service/GeneMethod.wsdl"/>
+    <system systemId="http://localhost:9999/Web_service/GeneMethod?xsd=1" uri="xml-resources/web-service-references/GeneMethod/wsdl/localhost_9999/Web_service/GeneMethod.xsd_1.xsd"/>
+    <system systemId="http://localhost:9999/Web_service/GeneMethod_ws?wsdl" uri="xml-resources/web-service-references/GeneMethod_ws/wsdl/localhost_9999/Web_service/GeneMethod_ws.wsdl"/>
+    <system systemId="http://localhost:9999/Web_service/GeneMethod_ws?xsd=1" uri="xml-resources/web-service-references/GeneMethod_ws/wsdl/localhost_9999/Web_service/GeneMethod_ws.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/GeneLoadWS/GeneLoadWS?wsdl" uri="xml-resources/web-service-references/GeneLoadWS/wsdl/localhost_8080/GeneLoadWS/GeneLoadWS.wsdl"/>
+    <system systemId="http://localhost:8080/GeneLoadWS/GeneLoadWS?xsd=1" uri="xml-resources/web-service-references/GeneLoadWS/wsdl/localhost_8080/GeneLoadWS/GeneLoadWS.xsd_1.xsd"/>
+</catalog>
